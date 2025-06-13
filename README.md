@@ -133,7 +133,7 @@ sqlite3 --version
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/movie-database-sqlite.git
+git clone https://github.com/chaitanyamotwane/movieDB.git
 cd movie-database-sqlite
 ```
 
